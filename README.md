@@ -3,7 +3,7 @@
 **Insights:**
 
 <pre>
-1)Customer Dashboard
+1) Customer Dashboard
   a) Total Spent: 
     i)   Over 70% are non-registered customers. 
     ii)  Boost loyalty by offering promotions to registered users. 
